@@ -19,3 +19,6 @@ Crear una nueva rama `bibliografia` y mostrar las ramas del repositorio.
 `git commit m "Añadido capitulo 4"`
 4. Mostrar el historial del repositorio incluyendo todas las ramas. </br>
 `git log --graph --all --oneline`
+
+###### Resolucion
+![](https://github.com/RA-22-2/Libro/blob/master/assets/images/gitarbol.PNG) 
