@@ -13,9 +13,9 @@ Crear una nueva rama `bibliografia` y mostrar las ramas del repositorio.
 #### Ejercicio 2 
 1. Crear el fichero `capitulos/capitulo4.txt` y añadir el siguiente texto
 > *En este capítulo veremos cómo usar GitHub para alojar repositorios en remoto*
-2. Añadir los cambios a la zona de intercambio temporal *staging area*
+2. Añadir los cambios a la zona de intercambio temporal *staging area* </br>
 `git add . `
-3. Hacer un commit con el mensaje _"Añadido Capitulo 4"_
+3. Hacer un commit con el mensaje _"Añadido Capitulo 4"_ </br>
 `git commit m "Añadido capitulo 4"`
-4. Mostrar el historial del repositorio incluyendo todas las ramas.
+4. Mostrar el historial del repositorio incluyendo todas las ramas. </br>
 `git log --graph --all --oneline`
